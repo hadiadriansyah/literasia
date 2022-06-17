@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "25566190202",
+    "project_id": "notification-online-mode",
+    "storage_bucket": "notification-online-mode.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25566190202:android:3a733a874609470f92b9c3",
+        "android_client_info": {
+          "package_name": "com.example.notification_online_mode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25566190202-phc9qc87avvqjhghs5l44kq1f83kc8l4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2gCMQg0jpoghIfgMtUnceeF1IbZQFVTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25566190202-phc9qc87avvqjhghs5l44kq1f83kc8l4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

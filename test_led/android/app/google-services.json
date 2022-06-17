@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "142671441856",
+    "project_id": "led-test-f72c4",
+    "storage_bucket": "led-test-f72c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142671441856:android:7c4264444c1b2f79d06225",
+        "android_client_info": {
+          "package_name": "com.example.test_led"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142671441856-rqqpj56f3v1mo0fisukl2dvq9n4di1ck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0WirkClht-daEO6Rcxg38D1Gd7qyl3F0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142671441856-rqqpj56f3v1mo0fisukl2dvq9n4di1ck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
